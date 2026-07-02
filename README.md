@@ -31,6 +31,7 @@ Olen andmeanalüütiku teel õppija, kes läbib hetkel **DACA (Data Analyst Care
 ### 📫 Kontakt
 
 📧 kaarusdoris@gmail.com
+⛓️linkedin.com/in/kaarusdoris
 
 ---
 
@@ -65,3 +66,4 @@ I'm a data analyst in training, currently completing the **DACA (Data Analyst Ca
 ### 📫 Contact
 
 📧 kaarusdoris@gmail.com
+⛓️linkedin.com/in/kaarusdoris
