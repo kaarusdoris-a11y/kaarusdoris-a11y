@@ -2,7 +2,7 @@
 
 ## 🇪🇪 Eesti keeles
 
-Olen andmeanalüütiku teel õppija, kes läbib hetkel **DACA (Data Analyst Career Accelerator)** programmi. Mulle meeldib andmetes mustreid leida ja neid selgelt esitleda.
+Olen juunior andmeanalüütik, kes läbis **DACA (Data Analyst Career Accelerator)** programmi. Mulle meeldib andmetes mustreid leida ja neid selgelt esitleda. 
 
 ### 🔭 Praegu tegelen
 
@@ -19,7 +19,7 @@ Olen andmeanalüütiku teel õppija, kes läbib hetkel **DACA (Data Analyst Care
 `pandas` `plotly` `streamlit` `Jupyter Notebook`
 
 **Tööriistad**
-`Git` `GitHub` `VS Code` `Power BI` `NotebookLM`
+`Git` `GitHub` `VS Code` `NotebookLM`
 
 ### 📂 Projektid
 
@@ -37,7 +37,7 @@ Olen andmeanalüütiku teel õppija, kes läbib hetkel **DACA (Data Analyst Care
 
 ## 🇬🇧 In English
 
-I'm a data analyst in training, currently completing the **DACA (Data Analyst Career Accelerator)** programme. I enjoy finding patterns in data and presenting them clearly.
+I'm a junior data analyst, who completed the **DACA (Data Analyst Career Accelerator)** programme. I enjoy finding patterns in data and presenting them clearly.
 
 ### 🔭 Currently working on
 
@@ -54,7 +54,7 @@ I'm a data analyst in training, currently completing the **DACA (Data Analyst Ca
 `pandas` `plotly` `streamlit` `Jupyter Notebook`
 
 **Tools**
-`Git` `GitHub` `VS Code` `Power BI` `NotebookLM`
+`Git` `GitHub` `VS Code` `NotebookLM`
 
 ### 📂 Projects
 
