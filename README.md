@@ -31,6 +31,7 @@ Olen juunior andmeanalüütik, kes läbis **DACA (Data Analyst Career Accelerato
 ### 📫 Kontakt
 
 📧 kaarusdoris@gmail.com
+
 ⛓️linkedin.com/in/kaarusdoris
 
 ---
@@ -66,4 +67,5 @@ I'm a junior data analyst, who completed the **DACA (Data Analyst Career Acceler
 ### 📫 Contact
 
 📧 kaarusdoris@gmail.com
+
 ⛓️linkedin.com/in/kaarusdoris
